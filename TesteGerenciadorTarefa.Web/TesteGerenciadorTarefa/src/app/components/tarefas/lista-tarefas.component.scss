@@ -1,0 +1,52 @@
+.pagina {
+    display: flex;
+    float: right;
+    background-color: gainsboro;
+    height: calc(100vh - 64px);
+    width: 100%;
+
+    .botao-editar-item {
+        background-color: #189DD9;
+        color: #FFF;
+        border-color: #189DD9;
+        padding: 10px 20px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        font-size: 16px;
+    }
+
+    .botao-excluir-item {
+        background-color: red;
+        color: #FFF;
+        border-color: red;
+        padding: 10px 20px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        font-size: 16px;
+    }
+
+    .botao-detalhe-item {
+        background-color: green;
+        color: #FFF;
+        border-color: green;
+        padding: 10px 20px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        font-size: 16px;
+    }
+
+    .botao-novo-item {
+        background-color: #189DD9;
+        color: #FFF;
+        border-color: #189DD9;
+        padding: 10px 20px;
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+
+    .tabela {      
+        height: 436px;
+        margin: auto;
+        width: 80%;
+    }
+}

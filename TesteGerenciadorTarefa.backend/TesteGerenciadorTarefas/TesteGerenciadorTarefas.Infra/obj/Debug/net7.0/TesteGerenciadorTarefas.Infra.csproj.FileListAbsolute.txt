@@ -1,0 +1,17 @@
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\bin\Debug\net7.0\TesteGerenciadorTarefas.Infra.deps.json
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\bin\Debug\net7.0\TesteGerenciadorTarefas.Infra.runtimeconfig.json
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\bin\Debug\net7.0\TesteGerenciadorTarefas.Infra.dll
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\bin\Debug\net7.0\TesteGerenciadorTarefas.Infra.pdb
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\bin\Debug\net7.0\TesteGerenciadorTarefas.Domain.dll
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\bin\Debug\net7.0\TesteGerenciadorTarefas.Domain.pdb
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\obj\Debug\net7.0\TesteGerenciadorTarefas.Infra.csproj.AssemblyReference.cache
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\obj\Debug\net7.0\TesteGerenciadorTarefas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\obj\Debug\net7.0\TesteGerenciadorTarefas.Infra.AssemblyInfoInputs.cache
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\obj\Debug\net7.0\TesteGerenciadorTarefas.Infra.AssemblyInfo.cs
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\obj\Debug\net7.0\TesteGerenciadorTarefas.Infra.csproj.CoreCompileInputs.cache
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\obj\Debug\net7.0\TesteGerenciadorTarefas.Infra.csproj.CopyComplete
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\obj\Debug\net7.0\TesteGerenciadorTarefas.Infra.dll
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\obj\Debug\net7.0\refint\TesteGerenciadorTarefas.Infra.dll
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\obj\Debug\net7.0\TesteGerenciadorTarefas.Infra.pdb
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\obj\Debug\net7.0\TesteGerenciadorTarefas.Infra.genruntimeconfig.cache
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Infra\obj\Debug\net7.0\ref\TesteGerenciadorTarefas.Infra.dll

@@ -1,0 +1,12 @@
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\bin\Debug\net7.0\TesteGerenciadorTarefas.Domain.deps.json
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\bin\Debug\net7.0\TesteGerenciadorTarefas.Domain.dll
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\bin\Debug\net7.0\TesteGerenciadorTarefas.Domain.pdb
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\obj\Debug\net7.0\TesteGerenciadorTarefas.Domain.csproj.AssemblyReference.cache
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\obj\Debug\net7.0\TesteGerenciadorTarefas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\obj\Debug\net7.0\TesteGerenciadorTarefas.Domain.AssemblyInfoInputs.cache
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\obj\Debug\net7.0\TesteGerenciadorTarefas.Domain.AssemblyInfo.cs
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\obj\Debug\net7.0\TesteGerenciadorTarefas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\obj\Debug\net7.0\TesteGerenciadorTarefas.Domain.dll
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\obj\Debug\net7.0\refint\TesteGerenciadorTarefas.Domain.dll
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\obj\Debug\net7.0\TesteGerenciadorTarefas.Domain.pdb
+C:\Users\visitante\source\repos\TesteGerenciadorTarefas\TesteGerenciadorTarefa.backend\TesteGerenciadorTarefas\TesteGerenciadorTarefas.Domain\obj\Debug\net7.0\ref\TesteGerenciadorTarefas.Domain.dll
